@@ -10,5 +10,5 @@ e exibir uma `joke` na tela, assim como a imagem relacionada a ela.
 
 ***Não é permitido o uso de extensions prontas de artefatos do `androidx`***
 
-### Resultado final (demo)
+### Resultado esperado
 ![](dojo.gif)
